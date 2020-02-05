@@ -4,7 +4,7 @@
         "attributes": {
             "name": "Hello Kitty",
             "description": "As tall as 5 apples and as heavy as three",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }
     },
@@ -13,7 +13,7 @@
         "attributes": {
             "name": "George White",
             "description": "Hello Kitty’s papa",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -22,7 +22,7 @@
         "attributes": {
             "name": "Mary White",
             "description": "Hello Kitty’s mama",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -31,7 +31,7 @@
         "attributes": {
             "name": "Mimmy White",
             "description": "Hello Kitty’s twin sister",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -40,7 +40,7 @@
         "attributes": {
             "name": "Anthony White",
             "description": "Hello Kitty’s grandpa",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -49,7 +49,7 @@
         "attributes": {
             "name": "Margaret White",
             "description": "Hello Kitty’s grandma",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -58,7 +58,7 @@
         "attributes": {
             "name": "Daniel Starr",
             "description": "Hello Kitty’s boyfriend and companion",
-            "debutYear": "1999",
+            "debut_year": "1999",
             "image": ""
         }  
     },
@@ -67,7 +67,7 @@
         "attributes": {
             "name": "Joey",
             "description": "Hello Kitty’s closest classmate who’s unbeatable at tag",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -76,7 +76,7 @@
         "attributes": {
             "name": "Tippy",
             "description": "Strong but kindhearted bear with a crush on Hello Kitty",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -85,7 +85,7 @@
         "attributes": {
             "name": "Tracy",
             "description": "Hello Kitty’s friend and rascally raccoon",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -94,7 +94,7 @@
         "attributes": {
             "name": "Thomas",
             "description": "Hello Kitty’s friend and adorably scatterbrained little bear",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -103,7 +103,7 @@
         "attributes": {
             "name": "Fifi",
             "description": "Hello Kitty’s friend and quite a chatter box",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -112,7 +112,7 @@
         "attributes": {
             "name": "Jodie",
             "description": "Hello Kitty’s friend and a smart pooch who loves to study",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -121,7 +121,7 @@
         "attributes": {
             "name": "Rorry",
             "description": "Hello Kitty’s squirrel pal who shows everyone the secrets of the forest",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -130,7 +130,7 @@
         "attributes": {
             "name": "Mory",
             "description": "A shy little mole who lives in Hello Kitty’s home",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -139,7 +139,7 @@
         "attributes": {
             "name": "Tim and Tammy",
             "description": "Brother and sister team who seem to pop up whenever there is fun to be had",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -148,7 +148,7 @@
         "attributes": {
             "name": "Judy",
             "description": "Hello Kitty’s friend and Joey’s girlfriend",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -157,7 +157,7 @@
         "attributes": {
             "name": "Coro Chan",
             "description": "An easygoing bear from Windermere in the north of England",
-            "debutYear": "1973",
+            "debut_year": "1973",
             "image": ""
         }  
     },
@@ -166,7 +166,7 @@
         "attributes": {
             "name": "Yachiyo Charmer",
             "description": "Bobbed hair, kimono style and ladylike elegance",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -175,7 +175,7 @@
         "attributes": {
             "name": "Patty & Jimmy",
             "description": "A cute little couple from Kansas City",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -184,7 +184,7 @@
         "attributes": {
             "name": "Billy",
             "description": "Patty and Jimmy's friend",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -193,7 +193,7 @@
         "attributes": {
             "name": "Dora",
             "description": "Patty and Jimmy's friend",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -202,7 +202,7 @@
         "attributes": {
             "name": "Fuzzy",
             "description": "Patty and Jimmy's friend",
-            "debutYear": "1974",
+            "debut_year": "1974",
             "image": ""
         }  
     },
@@ -211,7 +211,7 @@
         "attributes": {
             "name": "Strawberry King",
             "description": "King of the beautiful and peaceful Strawberry Kingdom",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -220,7 +220,7 @@
         "attributes": {
             "name": "Dandy",
             "description": "One of the Seven Strawberry Angels",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -229,7 +229,7 @@
         "attributes": {
             "name": "Tommy",
             "description": "One of the Seven Strawberry Angels",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -238,7 +238,7 @@
         "attributes": {
             "name": "Tuffy",
             "description": "One of the Seven Strawberry Angels",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -247,7 +247,7 @@
         "attributes": {
             "name": "Candy",
             "description": "One of the Seven Strawberry Angels",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -256,7 +256,7 @@
         "attributes": {
             "name": "Socrates",
             "description": "One of the Seven Strawberry Angels",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -265,7 +265,7 @@
         "attributes": {
             "name": "Crybaby",
             "description": "One of the Seven Strawberry Angels",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -274,7 +274,7 @@
         "attributes": {
             "name": "Stinky",
             "description": "One of the Seven Strawberry Angels",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -283,7 +283,7 @@
         "attributes": {
             "name": "My Melody",
             "description": "Very honest, good-natured and her favorite food is almond pound cake",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -292,7 +292,7 @@
         "attributes": {
             "name": "My Melody’s Grandpa",
             "description": "He loves adventures",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -301,7 +301,7 @@
         "attributes": {
             "name": "My Melody’s Grandma",
             "description": "Just about knows everything",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -310,7 +310,7 @@
         "attributes": {
             "name": "Rhythm",
             "description": "My Melody’s little brother and a bit of a rascal",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -319,7 +319,7 @@
         "attributes": {
             "name": "My Melody’s Mama",
             "description": "Loves baking sweets and doing crafts",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -328,7 +328,7 @@
         "attributes": {
             "name": "My Melody’s Papa",
             "description": "Gentle and strong",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -337,7 +337,7 @@
         "attributes": {
             "name": "Kuma",
             "description": "My Melody’s friend who's big and strong with a large appetite",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -346,7 +346,7 @@
         "attributes": {
             "name": "Flat",
             "description": "My Melody’s best friend and a little bit shy",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -355,7 +355,7 @@
         "attributes": {
             "name": "Piano",
             "description": "My Melody’s friend who is soft, kind and girly",
-            "debutYear": "2005",
+            "debut_year": "2005",
             "image": ""
         }  
     },
@@ -364,7 +364,7 @@
         "attributes": {
             "name": "Kitsune",
             "description": "My Melody’s friend always looking for new ways to have fun",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -373,7 +373,7 @@
         "attributes": {
             "name": "Zou",
             "description": "My Melody’s friend, loves waterfights and is like everyone's older brother",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -382,7 +382,7 @@
         "attributes": {
             "name": "Fukurou",
             "description": "My Melody’s friend who knows everything there is to know about Maryland",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -391,7 +391,7 @@
         "attributes": {
             "name": "Risu",
             "description": "My Melody’s friend and very close with flat, also a bit shy",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -400,7 +400,7 @@
         "attributes": {
             "name": "Harinezumi",
             "description": "My Melody’s friend and likes to chill out",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -409,7 +409,7 @@
         "attributes": {
             "name": "Kangaroo",
             "description": "My Melody’s friend and loves to chat",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -418,7 +418,7 @@
         "attributes": {
             "name": "The Duck Family",
             "description": "Friends of My Melody, cheerful and love to play in the pond",
-            "debutYear": "",
+            "debut_year": "",
             "image": ""
         }  
     },
@@ -427,7 +427,7 @@
         "attributes": {
             "name": "Araiguma",
             "description": "My Melody’s friend that is very observant and loves cleanliness",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -436,7 +436,7 @@
         "attributes": {
             "name": "Mogura",
             "description": "My Melody's friend who's a little introverted, but has a strong work ethic",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -445,7 +445,7 @@
         "attributes": {
             "name": "Tori",
             "description": "My Melody’s friend that likes to share her lovely singing voice with everyone",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -454,7 +454,7 @@
         "attributes": {
             "name": "Chocho",
             "description": "My Melody’s friend who will show you where the flowers are",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -463,7 +463,7 @@
         "attributes": {
             "name": "Little Twin Stars",
             "description": "Kiki and Lala are two twin stars born on Omoiyari Star in the Yume Star-Cloud",
-            "debutYear": "1975",
+            "debut_year": "1975",
             "image": ""
         }  
     },
@@ -472,7 +472,7 @@
         "attributes": {
             "name": "Small People",
             "description": "Just a gang of pals and their dog",
-            "debutYear": "1976",
+            "debut_year": "1976",
             "image": ""
         }  
     },
@@ -481,7 +481,7 @@
         "attributes": {
             "name": "Peek-a-boo",
             "description": "Daisy is a kind and reliable older sister with curly hair in tight pigtails",
-            "debutYear": "1977",
+            "debut_year": "1977",
             "image": ""
         }  
     },
@@ -490,7 +490,7 @@
         "attributes": {
             "name": "Bibi",
             "description": "Daisy's younger sister",
-            "debutYear": "1977",
+            "debut_year": "1977",
             "image": ""
         }  
     },
@@ -499,7 +499,7 @@
         "attributes": {
             "name": "Pero",
             "description": "Daisy's little puppy",
-            "debutYear": "1977",
+            "debut_year": "1977",
             "image": ""
         }  
     },
@@ -508,7 +508,7 @@
         "attributes": {
             "name": "Lullaby Lovables",
             "description": "Winky and Winkle are two curious, angelic little twins who love singing songs and reading books with their bear Teddy",
-            "debutYear": "1977",
+            "debut_year": "1977",
             "image": ""
         }  
     },
@@ -517,7 +517,7 @@
         "attributes": {
             "name": "Button Nose",
             "description": "A kind and energetic little girl, and a master strawberry jam-maker.",
-            "debutYear": "1978",
+            "debut_year": "1978",
             "image": ""
         }  
     },
@@ -526,7 +526,7 @@
         "attributes": {
             "name": "Tuxedosam",
             "description": "A little naïve and a bit of a blunderer, but everybody loves this personable penguin who likes to eat all the time",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -535,7 +535,7 @@
         "attributes": {
             "name": "Chip",
             "description": "Very good friends with Tuxedosam",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -544,7 +544,7 @@
         "attributes": {
             "name": "Seven Silly Dwarfs",
             "description": "Seven simple little friends who have very different personalities, but get on very well",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -553,7 +553,7 @@
         "attributes": {
             "name": "Captain Willy",
             "description": "A sailor from Napoli who spends his days sailing the seven seas with his trademark beard and pipe",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -562,7 +562,7 @@
         "attributes": {
             "name": "Presso",
             "description": "Captain Willy's little white colored dog",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -571,7 +571,7 @@
         "attributes": {
             "name": "Cielo",
             "description": "The big sister of Vento and lives on the harbor in Yokohama",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -580,7 +580,7 @@
         "attributes": {
             "name": "Vento",
             "description": "The little brother of Cielo and lives on the harbor in Yokohama",
-            "debutYear": "1979",
+            "debut_year": "1979",
             "image": ""
         }  
     },
@@ -589,7 +589,7 @@
         "attributes": {
             "name": "",
             "description": "",
-            "debutYear": "",
+            "debut_year": "",
             "image": ""
         }  
     }
